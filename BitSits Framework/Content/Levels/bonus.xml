@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[string]">
+    <Item>CO2</Item>
+    <Item>C6H6</Item>
+    <Item>O6</Item>
+    <Item>C4NOH5</Item>
+  </Asset>
+</XnaContent>

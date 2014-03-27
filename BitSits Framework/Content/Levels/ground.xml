@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[Microsoft.Xna.Framework.Vector2]">
+    0 900
+
+    0 600
+    45 555
+    45 70
+    95 20
+    705 20
+    755 70
+    755 555
+    800 600
+
+    800 900
+    0 900
+  </Asset>
+</XnaContent>
