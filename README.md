@@ -5,7 +5,7 @@ Another submission for [Experimental Gameplay Project] theme [Two Months of CASU
 
 Download Executable
 ---
-[Moolecule.zip (6.27 MB) (Release 2)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Moolecule.zip)
+[Moolecule.zip (6.27 MB) (Release 2)](https://github.com/BitSits/Moolecule/raw/master/Moolecule.zip)
 
 
 Instructions
