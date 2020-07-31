@@ -59,8 +59,8 @@ Reviews
 [XNA Stater Kit: Platformer]: http://msdn.microsoft.com/en-us/library/dd254918.aspx
 [Microsoft Permissive License.rtf]: http://creators.xna.com/downloads/?id=15
 
-[MIT License]:http://www.opensource.org/licenses/mit-license.php
-[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]:http://creativecommons.org/licenses/by-nc-sa/3.0/
+[MIT License]: http://www.opensource.org/licenses/mit-license.php
+[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 [Bitsits Games]: https://bitsits.blogspot.com
 [Shubhajit Saha]: https://suvozit.blogspot.com
