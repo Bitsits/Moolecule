@@ -4,9 +4,9 @@ Another submission for [Experimental Gameplay Project] theme [Two Months of CASU
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Moolecule-Assets/master/Blog/Moolecule1.png)
-![](https://raw.githubusercontent.com/Bitsits/Moolecule-Assets/master/Blog/Moolecule2.png)
-![](https://raw.githubusercontent.com/Bitsits/Moolecule-Assets/master/Blog/Moolecule3.png)
+![](https://github.com/Bitsits/Moolecule-Assets/raw/master/Blog/Moolecule1.png)
+![](https://github.com/Bitsits/Moolecule-Assets/raw/master/Blog/Moolecule2.png)
+![](https://github.com/Bitsits/Moolecule-Assets/raw/master/Blog/Moolecule3.png)
 
 Download Executable
 ---
@@ -40,11 +40,9 @@ Credits
 
 License
 ---
-
-![](https://raw.githubusercontent.com/Bitsits/Moolecule-Assets/master/Blog/cc.png)
+![](https://github.com/Bitsits/Moolecule-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 Reviews
 ---
