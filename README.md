@@ -66,7 +66,7 @@ Reviews
 
 [Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/06/two-months-of-casual-addiction/
-[zip]: https://github.com/BitSits/Moolecule-Assets/raw/master/Moolecule.zip
+[zip]: https://github.com/Bitsits/Moolecule-Assets/raw/master/Moolecule.zip
 
 [Blogger](https://bitsits.blogspot.com/2010/07/moolecule.html)
 [Tumblr](https://bitsits.tumblr.com/post/96199237555/moolecule-another-submission-for-experimental)
