@@ -4,9 +4,9 @@ Another submission for [Experimental Gameplay Project] theme [Two Months of CASU
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Moolecule/master/Blog/Moolecule1.png)
-![](https://raw.githubusercontent.com/Bitsits/Moolecule/master/Blog/Moolecule2.png)
-![](https://raw.githubusercontent.com/Bitsits/Moolecule/master/Blog/Moolecule3.png)
+![](https://raw.githubusercontent.com/Bitsits/Moolecule-Assets/master/Blog/Moolecule1.png)
+![](https://raw.githubusercontent.com/Bitsits/Moolecule-Assets/master/Blog/Moolecule2.png)
+![](https://raw.githubusercontent.com/Bitsits/Moolecule-Assets/master/Blog/Moolecule3.png)
 
 Download Executable
 ---
@@ -15,9 +15,9 @@ Download Executable
 
 Instructions
 ---
-Drag and drop using LEFT mouse button to connect the atomic creatures and RIGHT mouse button to detach it from the molecule. Make bigger and bigger molecule.
+Drag and drop using <kbd>LEFT</kbd> mouse button to connect the atomic creatures and RIGHT mouse button to detach it from the molecule. Make bigger and bigger molecule.
 
-RIGHT click on any atom will break all its bonds.
+<kbd>RIGHT</kbd> click on any atom will break all its bonds.
 
 
 Troubleshooting
@@ -41,7 +41,7 @@ Credits
 License
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Moolecule/master/Blog/cc.png)
+![](https://raw.githubusercontent.com/Bitsits/Moolecule-Assets/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -68,7 +68,7 @@ Reviews
 
 [Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/06/two-months-of-casual-addiction/
-[zip]: https://github.com/BitSits/Moolecule/raw/master/Moolecule.zip
+[zip]: https://github.com/BitSits/Moolecule-Assets/raw/master/Moolecule.zip
 
 [Blogger](https://bitsits.blogspot.com/2010/07/moolecule.html)
 [Tumblr](https://bitsits.tumblr.com/post/96199237555/moolecule-another-submission-for-experimental)
